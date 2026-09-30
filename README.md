@@ -1,2 +1,3 @@
 # birdle
-A repository to implement flutter documentation concepts.
+
+A new Flutter project.
